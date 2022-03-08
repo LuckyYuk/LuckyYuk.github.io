@@ -23,7 +23,7 @@ header ul {
 main {
     box-sizing: border-box; width: 80%; 
     min-width: 340px; background-color: #f8f0df;
-    margin-right: auto; margin-left: auto;          /*10/11 幅まで*/
+    margin-right: auto; margin-left: auto;          
     padding: 1rem 0;  
 }
 section {
